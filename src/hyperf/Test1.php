@@ -5,6 +5,6 @@ namespace XdpFrameWork\Hyperf;
 class Test1
 {
   public static function add(){
-      return '124';
+      return '124333';
   }
 }
