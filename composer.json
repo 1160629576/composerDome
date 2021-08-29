@@ -1,0 +1,21 @@
+{
+    "name": "tangxiaocong/test",
+    "description": "rpc",
+    "type": "l",
+    "require": {
+        "php": ">=7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tangcong",
+            "email": "1160629576@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "XdpFrameWork\\": "src/"
+        }
+    }
+}
