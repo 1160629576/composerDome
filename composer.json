@@ -12,7 +12,7 @@
             "email": "1160629576@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "autoload": {
         "psr-4": {
             "XdpFrameWork\\": "src/"
